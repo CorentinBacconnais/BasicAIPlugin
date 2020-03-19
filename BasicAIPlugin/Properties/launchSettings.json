@@ -1,0 +1,9 @@
+{
+    "profiles": {
+        "FriendlyBot.FriendlySuite": {
+            "commandName": "Executable",
+            "executablePath": "..\\FriendlyBotRelease\\FriendlyBot.exe",
+            "workingDirectory": "..\\..\\FriendlyBotRelease"
+        }
+    }
+}
